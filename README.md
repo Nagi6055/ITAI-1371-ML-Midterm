@@ -1,7 +1,7 @@
 # ITAI-1371-ML-Midterm
-dataset choice:Cyber Security Attacks
+dataset choice:Telco Customer Churn
 
-https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 This repository holds midterm assignment grabbing a dataset from Kaggle that has a dataset.
 
