@@ -1,6 +1,8 @@
 # ITAI-1371-ML-Midterm
 dataset choice:
 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 This repository holds midterm assignment grabbing a dataset from Kaggle that has a dataset.
 
 ## Project Objective 
