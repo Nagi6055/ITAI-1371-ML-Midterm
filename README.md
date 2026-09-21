@@ -8,4 +8,4 @@ This repository holds midterm assignment grabbing a dataset from Kaggle that has
 ## Project Objective 
 
 The objective of this project is to clean, explore, and preprocess the dataset and then use machine learning
-type of models to help the database issue which is 
+type of models to help the database.
