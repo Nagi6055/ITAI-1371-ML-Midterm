@@ -3,11 +3,11 @@ For this midterm reflects the preparation of the Telco Customer Churn dataset fo
 class balancing, but most importantly data cleaning, while using Jupiter notebook in python programming language. The overall scope of the project, Telco Customer Churn, is to understand the business problem of identifying 
 the customers that may leave the telecommunication provider.
 
-2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (NAME)
-[type]
+2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (Safa Basil)
+My work focused on preparing the Telco Customer Churn dataset for future machine learning classification. I first divided the original 7,043 records into 70% training data and 30% testing data using a stratified split. All exploratory analysis and preprocessing decisions were based on the training data. I corrected blank values in TotalCharges, created the TotalServices feature, encoded categorical columns, and normalized and scaled numerical columns. I also balanced the training target through random oversampling. Finally, I transformed the untouched testing data without refitting the preprocessing tools and exported separate processed training and testing datasets.
 
-3.	PERSONAL REFLECTION – (NAME)
-[type]
+3.	PERSONAL REFLECTION – (Safa Basil)
+This project helped me understand that data preprocessing must follow the correct order to prevent data leakage. The most important lesson was to split the dataset before performing exploratory analysis, fitting transformations, or balancing the classes. I also learned that small data-quality problems, such as blank values in TotalCharges, can affect the entire workflow. Restarting the kernel and running every notebook cell from beginning to end helped me verify that the code was reproducible and that the final datasets had no missing values. This experience improved my confidence in preparing reliable data for machine learning models.
 
 4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (NAME)
 [type]
