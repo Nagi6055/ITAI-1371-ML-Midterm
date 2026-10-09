@@ -8,8 +8,8 @@ the folder.
 My contribution to this midterm project was creating and testing the Jupyter Notebook for preprocessing the Telco Customer Churn dataset. I completed the 70/30 train-test split, training-data EDA, missing-value cleanup, feature engineering, categorical encoding, normalization and scaling, class balancing, and before-and-after visualizations. I also exported the final processed training and testing datasets, uploaded the files to GitHub, and opened the pull request for team review.
 
 
-3.	[NAME]
-[type]
+3.	Marcus Wilbanks
+For our group's project my main focus was code auditing, independent environment verification, and project coordination to ensure compliance with all deadlines. 
 
 
 4.	[NAME]
