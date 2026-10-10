@@ -4,13 +4,23 @@ class balancing, but most importantly data cleaning, while using Jupiter noteboo
 the customers that may leave the telecommunication provider.
 
 2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (Safa Basil)
-My work focused on preparing the Telco Customer Churn dataset for future machine learning classification. I first divided the original 7,043 records into 70% training data and 30% testing data using a stratified split. All exploratory analysis and preprocessing decisions were based on the training data. I corrected blank values in TotalCharges, created the TotalServices feature, encoded categorical columns, and normalized and scaled numerical columns. I also balanced the training target through random oversampling. Finally, I transformed the untouched testing data without refitting the preprocessing tools and exported separate processed training and testing datasets.
+My work focused on preparing the Telco Customer Churn dataset for future machine learning classification. I first divided the original 7,043 records into 70% training data and 30% testing data using a stratified split. 
+All exploratory analysis and preprocessing decisions were based on the training data. I corrected blank values in TotalCharges, created the TotalServices feature, encoded categorical columns, and normalized and scaled numerical 
+columns. I also balanced the training target through random oversampling. Finally, I transformed the untouched testing data without refitting the preprocessing tools and exported separate processed training and testing datasets.
 
 3.	PERSONAL REFLECTION – (Safa Basil)
-This project helped me understand that data preprocessing must follow the correct order to prevent data leakage. The most important lesson was to split the dataset before performing exploratory analysis, fitting transformations, or balancing the classes. I also learned that small data-quality problems, such as blank values in TotalCharges, can affect the entire workflow. Restarting the kernel and running every notebook cell from beginning to end helped me verify that the code was reproducible and that the final datasets had no missing values. This experience improved my confidence in preparing reliable data for machine learning models.
+This project helped me understand that data preprocessing must follow the correct order to prevent data leakage. The most important lesson was to split the dataset before performing exploratory analysis, fitting transformations, 
+or balancing the classes. I also learned that small data-quality problems, such as blank values in TotalCharges, can affect the entire workflow. Restarting the kernel and running every notebook cell from beginning to end helped 
+me verify that the code was reproducible and that the final datasets had no missing values. This experience improved my confidence in preparing reliable data for machine learning models.
 
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (NAME)
-[type]
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (JENNIFER R.)
+There are still many areas that I could have improved on and of course trying to have a deeper understanding of what I am learning. But for this midterm I was able to experience and have an opportunity from following commands 
+individually to having to explain and make a preparation of an entire dataset. Help building a choice and being able to identify the assumptions it must observe the results that still needs evaluations.
+With what I have learned so far in I also learn deeper meaning of the functions being used such as pandas, the Matplotlib and how to interpret them, encoding, engineering features, and analyzing data in depth. 
+While putting everything together we could have a clear communication between the dataset and the limitations and decisions in machine learning aspect.
 
-5.	CONCLUSION - (NAME)
-[type]
+
+5.	CONCLUSION - (JENNIFER R.)
+Overall, this midterm project with the Telco Customer Churn, help demonstrate that data preparation is a sequence of decisions with the quality, evaluation, and the representation. The results show evidence of the completed 
+transformations with the models’ validation stay necessary so that we could investigate any predictive values. But the main insight of this project is to have clean dataset and must be explainable and presentable. The visible 
+outputs of the code will be able to help make the decisions traceable.
